@@ -88,7 +88,7 @@ public class Solution {
         return l1;
     }
 
-    public static class ListNode {
+    private static class ListNode {
         int val;
         ListNode next;
 
