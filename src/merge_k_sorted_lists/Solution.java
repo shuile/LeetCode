@@ -52,7 +52,9 @@ public class Solution {
                 }
             }
             q = q.next;
-            lists[whichList] = lists[whichList].next;
+            if (lists[whichList] != null) {
+                lists[whichList] = lists[whichList].next;
+            }
         }
         return ansList.next;
     }
