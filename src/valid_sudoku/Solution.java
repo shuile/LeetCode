@@ -33,6 +33,8 @@ public class Solution {
         System.out.println(isValidSudoku(board));
 
         System.out.println(isValidSudoku(board1));
+
+        System.out.println(isValidSudoku2(board));
     }
 
     private static boolean isValidSudoku(char[][] board) {
@@ -83,6 +85,59 @@ public class Solution {
                     }
                 }
             }
+        }
+        return true;
+    }
+
+    private static boolean isValidSudoku2(char[][] board) {
+        int row = board.length;
+        int column = board[0].length;
+        List<Character> list = new ArrayList<>();
+        // judge every row
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < column; j++) {
+                char ch = board[i][j];
+                if (ch != '.') {
+                    if (list.contains(ch)) {
+                        return false;
+                    } else {
+                        list.add(ch);
+                    }
+                }
+            }
+            list.clear();
+        }
+        list.clear();
+        for (int i = 0; i < column; i++) {
+            for (int j = 0; j < row; j++) {
+                char ch = board[i][j];
+                if (ch != '.') {
+                    if (list.contains(ch)) {
+                        return false;
+                    } else {
+                        list.add(ch);
+                    }
+                }
+            }
+            list.clear();
+        }
+        list.clear();
+        for (int i = 0; i < 9; i++) {
+            int r = i / 3 * 3;
+            int c = i % 3 * 3;
+            for (int j = r; j < r + 3; j++) {
+                for (int k = c; k < c + 3; k++) {
+                    char ch = board[j][k];
+                    if (ch != '.') {
+                        if (list.contains(ch)) {
+                            return false;
+                        } else {
+                            list.add(ch);
+                        }
+                    }
+                }
+            }
+            list.clear();
         }
         return true;
     }

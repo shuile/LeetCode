@@ -50,4 +50,34 @@ public class Solution {
     private static boolean isListEqual (List<Integer> a, List<Integer> b) {
         return a.containsAll(b) && b.containsAll(a) && (a.size() == b.size());
     }
+
+    private static List<List<Integer>> combinationSum2_(int[] candidates, int target) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> combine = new ArrayList<>();
+        dfs(candidates, target, ans, combine, 0);
+        return ans;
+    }
+
+    private static void dfs(int[] candidates, int target, List<List<Integer>> ans, List<Integer> combine, int pos) {
+        if (pos == candidates.length) {
+            return;
+        }
+        if (target == 0 && !ans.contains(new ArrayList<Integer>(combine))) {
+            ans.add(new ArrayList<Integer>(combine));
+            return;
+        }
+        for (int i = pos; i < candidates.length; i++) {
+            int diff = target - candidates[i];
+            if (diff > 0) {
+                combine.add(candidates[i]);
+                dfs(candidates, target - candidates[i], ans, combine, i + 1);
+
+            } else {
+                if (diff == 0) {
+                    ans.add(new ArrayList<Integer>(combine));
+                }
+                break;
+            }
+        }
+    }
 }
