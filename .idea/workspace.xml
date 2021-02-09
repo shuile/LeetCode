@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/permutaions_46/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/power_x_n/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rotate_image/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unique_paths/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcard_matching_44/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/longest_common_prefix/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/longest_common_prefix/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/combintion_sum_II/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/combintion_sum_II/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longest_common_prefix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longest_common_prefix/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/path_sum_112/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/path_sum_112/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/valid_sudoku/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/valid_sudoku/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -732,14 +720,6 @@
           <line>58</line>
           <properties />
           <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/combintion_sum_II/Solution.java</url>
-          <line>34</line>
-          <properties class="combintion_sum_II.Solution" method="combination">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="122" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="136" />
