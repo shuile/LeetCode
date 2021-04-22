@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_14I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_14II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/combintion_sum_II/Solution.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +149,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -294,6 +295,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.PermutationsII" />
       <item itemvalue="Application.Offer_13" />
