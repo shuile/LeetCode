@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_32I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_32II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_32III.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
