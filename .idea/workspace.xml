@@ -2,9 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_32I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_32II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_32III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Test_13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Test_14I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Test_14II.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/domain/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/domain/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/No1_50/PermutationsII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/_3Sum/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/_3sum_closest/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/_4sum/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/add_binary/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/add_two_numbers/Solution$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/add_two_numbers/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/balance_binary_tree_110/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/balance_binary_tree_110/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/base/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/climbing_stairs/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/combination_sum/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/combintion_sum_II/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/container_with_most_water/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/convert_sorted_array_to_binary_search_tree_108/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/convert_sorted_array_to_binary_search_tree_108/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/count_and_say/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/divide_two_integers/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/find_first_and_last_position_of_element_in_sorted_array/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/first_missing_positive/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/implement_strStr/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/integer_to_roman/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/length_of_last_word/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/letter_combinations_of_a_phone_number/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_common_prefix/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_palindromic_substring/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_substring_without_repeating_characters/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_valid_parentheses/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/maximum_subarray/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/median_of_two_sorted_arrays/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_k_sorted_lists/Solution$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_k_sorted_lists/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_two_sorted_lists/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_two_sorted_lists/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/minimum_depth_of_binary_tree_111/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/multiply_strings/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/next_permutation/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/palindrome_number/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/path_sum_112/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/path_sum_112/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/permutaions_46/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/plus_one/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/power_x_n/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/regular_expression_matching/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_duplicates_from_sorted_array/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_duplicates_from_sorted_list/Solution$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_duplicates_from_sorted_list/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_element/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_nth_node_from_end_of_list/Solution$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_nth_node_from_end_of_list/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/reverse_integer/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/reverse_nodes_in_k_group/Solution$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/reverse_nodes_in_k_group/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/roamn_to_integer/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/rotate_image/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/search_in_rotated_sorted_array/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/search_insert_position/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/sqrt_x/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/string_to_integer_atoi/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/substring_with_concatenation_of_all_words/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/sudoku_solver/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/swap_nodes_in_pairs/Solution$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/swap_nodes_in_pairs/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/trapping_rain_water/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/two_sum/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/unique_paths/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/valid_parentheses/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/valid_sudoku/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/wildcard_matching_44/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/zigzag_conversion/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_53I.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +228,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -270,6 +362,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -315,6 +420,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530787474989</updated>
+      <workItem from="1619496182427" duration="78000" />
+      <workItem from="1620222636653" duration="3673000" />
+      <workItem from="1620311551039" duration="2120000" />
+      <workItem from="1620397462353" duration="8006000" />
     </task>
     <task id="LOCAL-00001" summary="The Road of My LeetCode Coding.">
       <created>1535645822469</created>
@@ -344,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563127285150</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit left-done in Apr.">
+      <created>1620226769701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620226769701</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -379,12 +495,28 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The Road of My LeetCode Coding." />
     <MESSAGE value="I'm back to train leetcode." />
     <MESSAGE value="1" />
     <MESSAGE value="trapping_rain_water is not solved." />
-    <option name="LAST_COMMIT_MESSAGE" value="trapping_rain_water is not solved." />
+    <MESSAGE value="commit left-done in Apr." />
+    <option name="LAST_COMMIT_MESSAGE" value="commit left-done in Apr." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
