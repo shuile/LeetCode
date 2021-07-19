@@ -7,6 +7,7 @@ import java.util.LinkedList;
  * @author shui.
  * @date 2021/7/18.
  * @time 22:56.
+ * 删除链表的倒数第N个节点
  */
 public class L19 {
     // 双指针
