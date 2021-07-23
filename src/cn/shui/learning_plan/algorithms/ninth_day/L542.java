@@ -1,4 +1,4 @@
-package cn.shui.learning_plan.algorithms.ninth;
+package cn.shui.learning_plan.algorithms.ninth_day;
 
 import java.util.Arrays;
 import java.util.LinkedList;
