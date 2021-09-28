@@ -9,7 +9,7 @@ package cn.shui.learning_plan.datastruct_basic.sixteenth;
 public class L450 {
 
     public TreeNode deleteNode(TreeNode root, int key) {
-
+        return null;
     }
 
     private static class TreeNode {
