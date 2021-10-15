@@ -1,6 +1,6 @@
 package cn.shui.learning_plan.offer.second;
 
-import cn.shui.learning_plan.offer.model.Node;
+import cn.shui.learning_plan.offer.model.Node1;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,17 +12,17 @@ import java.util.Map;
  * 复杂链表的复制
  */
 public class Offer35 {
-    public Node copyRandomList(Node head) {
+    public Node1 copyRandomList(Node1 head) {
         if (head == null) {
             return null;
         }
-        Map<Node, Node> map = new HashMap<>();
-        Node ans = new Node(0);
-        Node p = head, q = ans;
+        Map<Node1, Node1> map = new HashMap<>();
+        Node1 ans = new Node1(0);
+        Node1 p = head, q = ans;
         while (p != null) {
-            Node node = new Node(p.val);
-            map.put(p, node);
-            q.next = node;
+            Node1 node1 = new Node1(p.val);
+            map.put(p, node1);
+            q.next = node1;
             q = q.next;
             p = p.next;
         }
@@ -37,13 +37,13 @@ public class Offer35 {
     }
 
     // 回溯+哈希表
-    Map<Node, Node> cachedNode = new HashMap<>();
-    public Node copyRandomList2(Node head) {
+    Map<Node1, Node1> cachedNode = new HashMap<>();
+    public Node1 copyRandomList2(Node1 head) {
         if (head == null) {
             return null;
         }
         if (!cachedNode.containsKey(head)) {
-            Node headNew = new Node(head.val);
+            Node1 headNew = new Node1(head.val);
             cachedNode.put(head, headNew);
             headNew.next = copyRandomList2(head.next);
             headNew.random = copyRandomList(head.random);
@@ -52,29 +52,29 @@ public class Offer35 {
     }
 
     // 迭代+节点拆分
-    public Node copyRandomList3(Node head) {
+    public Node1 copyRandomList3(Node1 head) {
         if (head == null) {
             return null;
         }
-        Node node = head;
-        while (node != null) {
-            Node nodeNew = new Node(node.val);
-            nodeNew.next = node.next;
-            node.next = nodeNew;
-            node = node.next.next;
+        Node1 node1 = head;
+        while (node1 != null) {
+            Node1 node1New = new Node1(node1.val);
+            node1New.next = node1.next;
+            node1.next = node1New;
+            node1 = node1.next.next;
         }
-        node = head;
-        while (node != null) {
-            node.next.random = (node.random != null) ? node.random.next : null;
-            node = node.next.next;
+        node1 = head;
+        while (node1 != null) {
+            node1.next.random = (node1.random != null) ? node1.random.next : null;
+            node1 = node1.next.next;
         }
-        Node headNew = head.next;
-        node = head;
-        while (node != null) {
-            Node nodeNew = node.next;
-            node.next = node.next.next;
-            nodeNew.next = (nodeNew.next != null) ? nodeNew.next.next : null;
-            node = node.next;
+        Node1 headNew = head.next;
+        node1 = head;
+        while (node1 != null) {
+            Node1 node1New = node1.next;
+            node1.next = node1.next.next;
+            node1New.next = (node1New.next != null) ? node1New.next.next : null;
+            node1 = node1.next;
         }
         return headNew;
     }
