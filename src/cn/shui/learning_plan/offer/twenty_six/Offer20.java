@@ -7,6 +7,6 @@ package cn.shui.learning_plan.offer.twenty_six;
  */
 public class Offer20 {
     public boolean isNumber(String s) {
-
+        return false;
     }
 }
