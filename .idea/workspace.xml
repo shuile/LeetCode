@@ -1,95 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Offer_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Test_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Test_14I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/Test_14II.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/domain/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/offer/domain/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/No1_50/PermutationsII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/_3Sum/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/_3sum_closest/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/_4sum/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/add_binary/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/add_two_numbers/Solution$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/add_two_numbers/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/balance_binary_tree_110/Solution$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/balance_binary_tree_110/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/base/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/climbing_stairs/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/combination_sum/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/combintion_sum_II/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/container_with_most_water/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/convert_sorted_array_to_binary_search_tree_108/Solution$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/convert_sorted_array_to_binary_search_tree_108/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/count_and_say/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/divide_two_integers/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/find_first_and_last_position_of_element_in_sorted_array/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/first_missing_positive/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/implement_strStr/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/integer_to_roman/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/length_of_last_word/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/letter_combinations_of_a_phone_number/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_common_prefix/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_palindromic_substring/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_substring_without_repeating_characters/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/longest_valid_parentheses/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/maximum_subarray/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/median_of_two_sorted_arrays/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_k_sorted_lists/Solution$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_k_sorted_lists/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_two_sorted_lists/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/merge_two_sorted_lists/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/minimum_depth_of_binary_tree_111/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/multiply_strings/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/next_permutation/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/palindrome_number/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/path_sum_112/Solution$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/path_sum_112/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/permutaions_46/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/plus_one/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/power_x_n/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/regular_expression_matching/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_duplicates_from_sorted_array/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_duplicates_from_sorted_list/Solution$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_duplicates_from_sorted_list/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_element/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_nth_node_from_end_of_list/Solution$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/remove_nth_node_from_end_of_list/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/reverse_integer/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/reverse_nodes_in_k_group/Solution$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/reverse_nodes_in_k_group/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/roamn_to_integer/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/rotate_image/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/search_in_rotated_sorted_array/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/search_insert_position/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/sqrt_x/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/string_to_integer_atoi/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/substring_with_concatenation_of_all_words/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/sudoku_solver/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/swap_nodes_in_pairs/Solution$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/swap_nodes_in_pairs/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/trapping_rain_water/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/two_sum/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/unique_paths/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/valid_parentheses/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/valid_sudoku/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/wildcard_matching_44/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/shui/order/zigzag_conversion/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/offer/Offer_53I.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -188,6 +104,9 @@
       </list>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -228,6 +147,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -243,14 +163,14 @@
       <recent name="cn.shui.offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Offer_14II">
-    <configuration name="Offer_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.offer.Offer_13" />
+  <component name="RunManager" selected="Application.L367">
+    <configuration name="L106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L106" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.offer.*" />
+          <option name="PATTERN" value="cn.shui.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,13 +178,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer_14I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.offer.Offer_14I" />
+    <configuration name="L367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L367" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.offer.*" />
+          <option name="PATTERN" value="cn.shui.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,13 +192,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer_14II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.offer.Offer_14II" />
+    <configuration name="L97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L97" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.offer.*" />
+          <option name="PATTERN" value="cn.shui.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,13 +206,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.No1_50.PermutationsII" />
+    <configuration name="Offer29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offer.twenty_five.Offer29" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.order.No1_50.*" />
+          <option name="PATTERN" value="cn.shui.learning_plan.offer.twenty_five.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,55 +220,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="valid_sudoku.Solution" />
+    <configuration name="Offer31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offer.twenty_five.Offer31" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="valid_sudoku.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.valid_sudoku.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.order.valid_sudoku.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.rotate_image.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.order.rotate_image.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.unique_paths.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.order.unique_paths.*" />
+          <option name="PATTERN" value="cn.shui.learning_plan.offer.twenty_five.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,19 +236,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -392,20 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.PermutationsII" />
-      <item itemvalue="Application.Offer_13" />
-      <item itemvalue="Application.Offer_14I" />
-      <item itemvalue="Application.Offer_14II" />
+      <item itemvalue="Application.Offer29" />
+      <item itemvalue="Application.Offer31" />
+      <item itemvalue="Application.L97" />
+      <item itemvalue="Application.L106" />
+      <item itemvalue="Application.L367" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Offer_14II" />
-        <item itemvalue="Application.Offer_14I" />
-        <item itemvalue="Application.Offer_13" />
-        <item itemvalue="Application.PermutationsII" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.L367" />
+        <item itemvalue="Application.L106" />
+        <item itemvalue="Application.L97" />
+        <item itemvalue="Application.Offer31" />
+        <item itemvalue="Application.Offer29" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +287,9 @@
       <workItem from="1619496182427" duration="78000" />
       <workItem from="1620222636653" duration="3673000" />
       <workItem from="1620311551039" duration="2120000" />
-      <workItem from="1620397462353" duration="8006000" />
+      <workItem from="1620397462353" duration="12849000" />
+      <workItem from="1620707474798" duration="3857000" />
+      <workItem from="1623936901587" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="The Road of My LeetCode Coding.">
       <created>1535645822469</created>
@@ -460,7 +326,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620226769701</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="the result of 2021.05.08">
+      <created>1620491490708</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620491490708</updated>
+    </task>
+    <task id="LOCAL-00007" summary="the result of 2021.05.12">
+      <created>1620882199152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620882199152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -516,295 +396,67 @@
     <MESSAGE value="1" />
     <MESSAGE value="trapping_rain_water is not solved." />
     <MESSAGE value="commit left-done in Apr." />
-    <option name="LAST_COMMIT_MESSAGE" value="commit left-done in Apr." />
+    <MESSAGE value="the result of 2021.05.08" />
+    <MESSAGE value="the result of 2021.05.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="the result of 2021.05.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/reverse_integer/Solution.java</url>
-          <line>28</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/tenth/Offer48.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/tenth/Offer48.java</url>
+          <line>54</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/roamn_to_integer/Solution.java</url>
-          <line>22</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/thirteenth/Offer58I.java</url>
+          <line>18</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/valid_parentheses/Solution.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/fourteenth/Offer13.java</url>
+          <line>19</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/implement_strStr/Solution.java</url>
-          <line>40</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/fifteenth/Offer34.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/fifteenth/Offer34.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/sixteenth/Offer45.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/sixteenth/Offer45.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/order/L106.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/order/L106.java</url>
+          <line>27</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/search_insert_position/Solution.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/add_binary/Solution.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/add_binary/Solution.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/add_two_numbers/Solution.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/add_two_numbers/Solution.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/add_two_numbers/Solution.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/add_two_numbers/Solution.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/longest_substring_without_repeating_characters/Solution.java</url>
-          <line>66</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/longest_substring_without_repeating_characters/Solution.java</url>
-          <line>65</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/longest_substring_without_repeating_characters/Solution.java</url>
-          <line>75</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/longest_substring_without_repeating_characters/Solution.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/string_to_integer_atoi/Solution.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/string_to_integer_atoi/Solution.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/string_to_integer_atoi/Solution.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3Sum/Solution.java</url>
-          <line>114</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3Sum/Solution.java</url>
-          <line>135</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3Sum/Solution.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3Sum/Solution.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3Sum/Solution.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3Sum/Solution.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3Sum/Solution.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3sum_closest/Solution.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3sum_closest/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/cn/shui/order/L367.java</url>
           <line>16</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_3sum_closest/Solution.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/letter_combinations_of_a_phone_number/Solution.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/letter_combinations_of_a_phone_number/Solution.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/letter_combinations_of_a_phone_number/Solution.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/letter_combinations_of_a_phone_number/Solution.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/letter_combinations_of_a_phone_number/Solution.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_4sum/Solution.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_4sum/Solution.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_4sum/Solution.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_4sum/Solution.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/_4sum/Solution.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/merge_k_sorted_lists/Solution.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/merge_k_sorted_lists/Solution.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/divide_two_integers/Solution.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/divide_two_integers/Solution.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/divide_two_integers/Solution.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/substring_with_concatenation_of_all_words/Solution.java</url>
-          <line>100</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/substring_with_concatenation_of_all_words/Solution.java</url>
-          <line>91</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/substring_with_concatenation_of_all_words/Solution.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/substring_with_concatenation_of_all_words/Solution.java</url>
-          <line>103</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/substring_with_concatenation_of_all_words/Solution.java</url>
-          <line>110</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/next_permutation/Solution.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/combintion_sum_II/Solution.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/permutaions_46/Solution.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/permutaions_46/Solution.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/rotate_image/Solution.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/rotate_image/Solution.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/longest_common_prefix/Solution.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/No1_50/PermutationsII.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="138" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/No1_50/PermutationsII.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="139" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
