@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_1/Beike_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_1/Beike_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_1/Beike_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/model/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L306.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,9 +116,6 @@
       </list>
     </option>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -163,14 +172,14 @@
       <recent name="cn.shui.offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L367">
-    <configuration name="L106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L106" />
+  <component name="RunManager" selected="Application.Offer084">
+    <configuration name="Offer066" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offerII.Offer066" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.order.*" />
+          <option name="PATTERN" value="cn.shui.learning_plan.offerII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L367" />
+    <configuration name="Offer076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offerII.Offer076" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.order.*" />
+          <option name="PATTERN" value="cn.shui.learning_plan.offerII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,13 +201,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L97" />
+    <configuration name="Offer079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offerII.Offer079" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.order.*" />
+          <option name="PATTERN" value="cn.shui.learning_plan.offerII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,13 +215,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offer.twenty_five.Offer29" />
+    <configuration name="Offer081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offerII.Offer081" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.learning_plan.offer.twenty_five.*" />
+          <option name="PATTERN" value="cn.shui.learning_plan.offerII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,13 +229,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offer.twenty_five.Offer31" />
+    <configuration name="Offer084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offerII.Offer084" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.learning_plan.offer.twenty_five.*" />
+          <option name="PATTERN" value="cn.shui.learning_plan.offerII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,19 +266,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Offer29" />
-      <item itemvalue="Application.Offer31" />
-      <item itemvalue="Application.L97" />
-      <item itemvalue="Application.L106" />
-      <item itemvalue="Application.L367" />
+      <item itemvalue="Application.Offer066" />
+      <item itemvalue="Application.Offer076" />
+      <item itemvalue="Application.Offer079" />
+      <item itemvalue="Application.Offer081" />
+      <item itemvalue="Application.Offer084" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L367" />
-        <item itemvalue="Application.L106" />
-        <item itemvalue="Application.L97" />
-        <item itemvalue="Application.Offer31" />
-        <item itemvalue="Application.Offer29" />
+        <item itemvalue="Application.Offer084" />
+        <item itemvalue="Application.Offer081" />
+        <item itemvalue="Application.Offer079" />
+        <item itemvalue="Application.Offer076" />
+        <item itemvalue="Application.Offer066" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620882199152</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="the result of 2021.05.12">
+      <created>1636334157219</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636334157219</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -404,62 +420,63 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/tenth/Offer48.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/tenth/Offer48.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/thirteenth/Offer58I.java</url>
-          <line>18</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer061.java</url>
+          <line>41</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/fourteenth/Offer13.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/fifteenth/Offer34.java</url>
-          <line>35</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer061.java</url>
+          <line>31</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/fifteenth/Offer34.java</url>
-          <line>41</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer061.java</url>
+          <line>49</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/sixteenth/Offer45.java</url>
-          <line>57</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer064.java</url>
+          <line>43</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offer/sixteenth/Offer45.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer064.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/L106.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer066.java</url>
+          <line>40</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/L106.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer066.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/L367.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer079.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer081.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer081.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list.toString()" language="JAVA" />
+        <watch expression="ans.toString()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/sqrt_x/Solution.java">
