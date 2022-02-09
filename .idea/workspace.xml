@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_1/Beike_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_1/Beike_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_1/Beike_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/model/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L306.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_2/Beike_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_2/Beike_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/learning_plan/beike/day_2/Beike_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L2006.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -356,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636334157219</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="the result of 2022.02.08">
+      <created>1644288861891</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644288861891</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -414,7 +413,8 @@
     <MESSAGE value="commit left-done in Apr." />
     <MESSAGE value="the result of 2021.05.08" />
     <MESSAGE value="the result of 2021.05.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="the result of 2021.05.12" />
+    <MESSAGE value="the result of 2022.02.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="the result of 2022.02.08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
