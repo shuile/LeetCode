@@ -7,6 +7,6 @@ package cn.shui.order;
  */
 public class L306 {
     public boolean isAdditiveNumber(String num) {
-
+        return false;
     }
 }
