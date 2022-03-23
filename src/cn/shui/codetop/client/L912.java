@@ -7,7 +7,7 @@ import java.util.Random;
  * Created by chenyiting on 2022/3/22
  * 数组排序
  */
-public class L914 {
+public class L912 {
     public int[] sortArray(int[] nums) {
         Arrays.sort(nums);
         return nums;
