@@ -37,4 +37,22 @@ public class L78 {
             list.add(i, a);
         }
     }
+
+    private final List<Integer> temp = new ArrayList<>();
+
+    public List<List<Integer>> subsets2(int[] nums) {
+        dfs(nums, 0);
+        return ans;
+    }
+
+    private void dfs(int[] nums, int curr) {
+        if (curr == nums.length) {
+            ans.add(new ArrayList<>(temp));
+            return;
+        }
+        temp.add(nums[curr]);
+        dfs(nums, curr + 1);
+        temp.remove(temp.size() - 1);
+        dfs(nums, curr + 1);
+    }
 }
