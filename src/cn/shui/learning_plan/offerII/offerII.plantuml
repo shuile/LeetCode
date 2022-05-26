@@ -1,0 +1,1176 @@
+@startuml
+
+title __OFFERII's Class Diagram__\n
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer001 {
+        + divide()
+        + divide2()
+        + divide3()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer002 {
+        + addBinary()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer003 {
+        + countBits()
+        + countBits2()
+        + countBits3()
+        + countBits4()
+        + countBits5()
+        - countOnes()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer004 {
+        + singleNumber()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer005 {
+        + maxProduct()
+        + maxProduct2()
+        - isRepeat()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer006 {
+        + twoSum()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer007 {
+        + threeSum()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer008 {
+        {static} + main()
+        + minSubArrayLen()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer009 {
+        + numSubarrayProductLessThanK()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer010 {
+        + subarraySum()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer011 {
+        + findMaxLength()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer012 {
+        + pivotIndex()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer013 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer013.NumMatrix {
+        - matrix : int[][]
+        + NumMatrix()
+        + sumRegion()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer013.NumMatrix2 {
+        - sums : int[][]
+        + NumMatrix2()
+        + sumRegion()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer013.NumMatrix3 {
+        - sums : int[][]
+        + NumMatrix3()
+        + sumRegion()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer014 {
+        + checkInclusion()
+        + checkInclusion2()
+        + checkInclusion3()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer015 {
+        + findAnagrams()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer016 {
+        + lengthOgLongestSubstring()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer017 {
+        + minWindow()
+        - areAllZero()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer018 {
+        + isPalindrome()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer019 {
+        + validPalindrome()
+        - isValidPalindrome()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer020 {
+        + countSubstrings()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer021 {
+        + removeNthFromEnd()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer022 {
+        + detectCycle()
+        + detectCycle2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer023 {
+        + getIntersectionNode()
+        + getIntersectionNode2()
+        + getIntersectionNode3()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer024 {
+        + reverseList()
+        + reverseList2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer025 {
+        + addTwoNumbers()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer026 {
+        {static} + main()
+        + reorderList()
+        + reorderList2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer027 {
+        + isPalindrome()
+        + isPalindrome2()
+        + isPalindrome3()
+        + isPalindrome4()
+        - endOfFirstHalf()
+        - recursiveCheck()
+        - reverseList()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer028 {
+        + flatten()
+        + flatten2()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer029 {
+        + insert()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer030 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer030.RandomizedSet {
+        - mList : List<Integer>
+        - mMap : Map<Integer, Integer>
+        - mRandom : Random
+        + RandomizedSet()
+        + getRandom()
+        + insert()
+        + remove()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer031 {
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer031.LRUCache {
+        - mList : List<Integer>
+        - mMap : Map<Integer, Integer>
+        - mSize : int
+        - mTotal : int
+        + LRUCache()
+        + get()
+        + put()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer031.LRUCache2 {
+        ~ map : Map<Integer, Node>
+        ~ size : int
+        + LRUCache2()
+        + addToHead()
+        + deleteNode()
+        + get()
+        + moveToHead()
+        + put()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node {
+        ~ key : int
+        ~ val : int
+        + Node()
+        + Node()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer031.LRUCache3 {
+        ~ map : Map<Integer, Node>
+        ~ size : int
+        + LRUCache3()
+        + addToTail()
+        + deleteNode()
+        + get()
+        + moveToTail()
+        + put()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node {
+        ~ key : int
+        ~ value : int
+        + Node()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer032 {
+        + isAnagram()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer033 {
+        + groupAnagrams()
+        + groupAnagrams2()
+        - isAnagrams()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer034 {
+        - map : Map<Character, Integer>
+        + isAlienSorted()
+        + isAlienSorted2()
+        - compare()
+        - isSorted()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer035 {
+        + findMinDifference()
+        + findMinDifference2()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer036 {
+        + evalRPN()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer037 {
+        + asteroidCollision()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer038 {
+        + dailyTemperatures()
+        + dailyTemperatures2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer039 {
+        + largestRectangle()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer040 {
+        + maximalRectangle()
+        - largestRectangleArea()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer041 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer041.MovingAverage {
+        - mList : List<Integer>
+        - mSize : int
+        - mSum : long
+        + MovingAverage()
+        + next()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer042 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer042.RecentCounter {
+        - mQueue : Queue<Integer>
+        + RecentCounter()
+        + ping()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer043 {
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer043.CBTInserter {
+        - mQueue : Queue<TreeNode>
+        + CBTInserter()
+        + get_root()
+        + insert()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer044 {
+        + largestValues()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer045 {
+        + findBottomLeftValue()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer046 {
+        + rightSideView()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer047 {
+        + pruneTree()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer048 {
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer048.Codec {
+        + deserialize()
+        + serialize()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer048.Codec2 {
+        + deserialize()
+        + serialize()
+        - rdeserialize()
+        - rserialize()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer048.Codec3 {
+        + deserialize()
+        + serialize()
+        - parse()
+        - parseInt()
+        - parseSubtree()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer049 {
+        + sumNumbers()
+        + sumNumbers2()
+        - dfs()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer050 {
+        + pathSum()
+        - dfs()
+        - pathSum2()
+        - rootSum()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer051 {
+        - ans : int
+        + maxPathSum()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer052 {
+        - mQueue : Queue<TreeNode>
+        + increasingBST()
+        + increasingBST2()
+        {static} + main()
+        - dfs()
+        - inorder()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer053 {
+        - isFind : boolean
+        + inorderSuccessor()
+        + inorderSuccessor2()
+        - inorder()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer054 {
+        - sum : int
+        + covertBST()
+        + covertBST2()
+        + covertBST3()
+        - dfs()
+        - inorder()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer055 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer055.BSTIterator {
+        - mQueue : Queue<TreeNode>
+        + BSTIterator()
+        - hasNext()
+        - inorder()
+        - next()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer055.BSTIterator2 {
+        - mStack : Stack<TreeNode>
+        + BSTIterator2()
+        + next()
+        - hasNext()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer056 {
+        + findTarget()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer057 {
+        + containsNearbyAlmostDuplicate()
+        + containsNearbyAlmostDuplicate2()
+        + containsNearbyAlmostDuplicate3()
+        - getID()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer058 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer058.MyCalendar {
+        - mData : Map<Integer, Integer>
+        - mStartList : List<Integer>
+        + MyCalendar()
+        + book()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer058.MyCalendar2 {
+        - events : TreeMap<Integer, Integer>
+        + MyCalendar2()
+        + book()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer059 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer059.KthLargest {
+        - k : int
+        - mQueue : PriorityQueue<Integer>
+        + KthLargest()
+        - add()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer060 {
+        + topKFrequent1()
+        + topKFrequent2()
+        - qsort()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer061 {
+        + kSmallestPairs()
+        + kSmallestPairs2()
+        + kSmallestPairs3()
+        {static} + main()
+        - addData()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer062 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer062.Trie {
+        - prefixSet : Set<String>
+        - wordSet : Set<String>
+        + Trie()
+        + insert()
+        + search()
+        + startsWith()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer062.Trie2 {
+        - children : Trie2[]
+        - isEnd : boolean
+        + Trie2()
+        + insert()
+        + search()
+        + startsWith()
+        - searchPrefix()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer063 {
+        {static} + main()
+        + replaceWords()
+        + replaceWords2()
+        - insert()
+        - replace()
+        - search()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer063.TrieNode {
+        ~ children : TrieNode[]
+        ~ isValid : boolean
+        + TrieNode()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer064 {
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer064.MagicDictionary {
+        + MagicDictionary()
+        + buildDictionary()
+        + search()
+        - insert()
+        - search()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer064.MagicDictionary.TrieNode {
+        ~ children : TrieNode[]
+        ~ isValid : boolean
+        + TrieNode()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer064.MagicDictionary2 {
+        ~ neighborCount : Map<String, Integer>
+        ~ words : Set<String>
+        + MagicDictionary2()
+        + buildDictionary()
+        + getNeighbors()
+        + search()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer065 {
+        + minimumLengthEncoding()
+        + minimumLengthEncoding2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer065.TrieNode {
+        ~ children : TrieNode[]
+        ~ count : int
+        + TrieNode()
+        + get()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer066 {
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer066.MapSum {
+        - mData : Map<String, Integer>
+        - mSum : Map<String, Integer>
+        + MapSum()
+        + insert()
+        + sum()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer066.MapSum2 {
+        + MapSum2()
+        + insert()
+        + sum()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer066.MapSum2.TrieNode {
+        ~ children : TrieNode[]
+        ~ val : int
+        + TrieNode()
+        + countSum()
+        + insert()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer067 {
+        {static} - HIGH_BIT : int
+        + findMaximumXOR()
+        + findMaximumXOR2()
+        + findMaximumXOR3()
+        - add()
+        - check()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer067.TrieNode {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer068 {
+        + searchInsert()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer069 {
+        + peakIndexInMountainArray()
+        + peakIndexMountainArray2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer070 {
+        + singleNonDuplicate()
+        + singleNonDuplicate2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer071 {
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer071.Solution {
+        - pre : int[]
+        - total : int
+        + Solution()
+        + pickIndex()
+        - binarySearch()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer072 {
+        + mySqrt()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer073 {
+        + minEatingSpeed()
+        - countTime()
+        - max()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer074 {
+        + merge()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer075 {
+        + relativeSortArray()
+        + relativeSortArray2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer076 {
+        + findKthLargest()
+        + findKthLargest2()
+        {static} + main()
+        - partition()
+        - swap()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer077 {
+        + sortList()
+        + sortList2()
+        - merge()
+        - split()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer078 {
+        + mergeKLists()
+        - merge()
+        - mergeList()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer079 {
+        - ans : List<List<Integer>>
+        {static} + main()
+        + subsets()
+        - help()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer080 {
+        - ans : List<List<Integer>>
+        - k : int
+        - n : int
+        + combine()
+        - help()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer081 {
+        - candidates : int[]
+        - res : List<List<Integer>>
+        - set : Set<List<Integer>>
+        + combinationSum()
+        + combinationSum2()
+        {static} + main()
+        - help()
+        - help()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer082 {
+        - ans : Set<List<Integer>>
+        - candidates : int[]
+        + combinationSum2()
+        + combinationSum22()
+        - getNext()
+        - help()
+        - helper()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer083 {
+        + permute()
+        + permute2()
+        - help()
+        - helper()
+        - swap()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer084 {
+        + permuteUnique()
+        - helper()
+        - swap()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer085 {
+        + generateParenthesis()
+        - help()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer086 {
+        + partition()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer087 {
+        + restoreIpAddress()
+        - helper()
+        - isValid()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer088 {
+        + minCostClimbingStairs()
+        + minCostClimbingStairs2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer089 {
+        + rob()
+        - help()
+        - rob2()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer090 {
+        + rob()
+        - myRob()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer091 {
+        + minCost()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer092 {
+        + minFlipsMonoIncr()
+        + minFlipsMonoIncr2()
+        + minFlipsMonoIncr3()
+    }
+  }
+  
+
+  namespace cn.shui.learning_plan.offerII {
+    class cn.shui.learning_plan.offerII.Offer093 {
+        + lenLongestFibSubseq()
+        + lenLongestFibSubseq2()
+        - search()
+    }
+  }
+  
+
+  cn.shui.learning_plan.offerII.Offer013 +-down- cn.shui.learning_plan.offerII.Offer013.NumMatrix
+  cn.shui.learning_plan.offerII.Offer013 +-down- cn.shui.learning_plan.offerII.Offer013.NumMatrix2
+  cn.shui.learning_plan.offerII.Offer013 +-down- cn.shui.learning_plan.offerII.Offer013.NumMatrix3
+  cn.shui.learning_plan.offerII.Offer027 o-- cn.shui.learning_plan.offerII.model.ListNode : frontPointer
+  cn.shui.learning_plan.offerII.Offer030 +-down- cn.shui.learning_plan.offerII.Offer030.RandomizedSet
+  cn.shui.learning_plan.offerII.Offer031 +-down- cn.shui.learning_plan.offerII.Offer031.LRUCache
+  cn.shui.learning_plan.offerII.Offer031 +-down- cn.shui.learning_plan.offerII.Offer031.LRUCache2
+  cn.shui.learning_plan.offerII.Offer031 +-down- cn.shui.learning_plan.offerII.Offer031.LRUCache3
+  cn.shui.learning_plan.offerII.Offer031.LRUCache2 o-- cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node : head
+  cn.shui.learning_plan.offerII.Offer031.LRUCache2 o-- cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node : tail
+  cn.shui.learning_plan.offerII.Offer031.LRUCache2 +-down- cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node
+  cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node o-- cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node : next
+  cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node o-- cn.shui.learning_plan.offerII.Offer031.LRUCache2.Node : pre
+  cn.shui.learning_plan.offerII.Offer031.LRUCache3 o-- cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node : head
+  cn.shui.learning_plan.offerII.Offer031.LRUCache3 o-- cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node : tail
+  cn.shui.learning_plan.offerII.Offer031.LRUCache3 +-down- cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node
+  cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node o-- cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node : next
+  cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node o-- cn.shui.learning_plan.offerII.Offer031.LRUCache3.Node : pre
+  cn.shui.learning_plan.offerII.Offer041 +-down- cn.shui.learning_plan.offerII.Offer041.MovingAverage
+  cn.shui.learning_plan.offerII.Offer042 +-down- cn.shui.learning_plan.offerII.Offer042.RecentCounter
+  cn.shui.learning_plan.offerII.Offer043 +-down- cn.shui.learning_plan.offerII.Offer043.CBTInserter
+  cn.shui.learning_plan.offerII.Offer043.CBTInserter o-- cn.shui.learning_plan.offerII.model.TreeNode : mRoot
+  cn.shui.learning_plan.offerII.Offer048 +-down- cn.shui.learning_plan.offerII.Offer048.Codec
+  cn.shui.learning_plan.offerII.Offer048 +-down- cn.shui.learning_plan.offerII.Offer048.Codec2
+  cn.shui.learning_plan.offerII.Offer048 +-down- cn.shui.learning_plan.offerII.Offer048.Codec3
+  cn.shui.learning_plan.offerII.Offer052 o-- cn.shui.learning_plan.offerII.model.TreeNode : resNode
+  cn.shui.learning_plan.offerII.Offer055 +-down- cn.shui.learning_plan.offerII.Offer055.BSTIterator
+  cn.shui.learning_plan.offerII.Offer055 +-down- cn.shui.learning_plan.offerII.Offer055.BSTIterator2
+  cn.shui.learning_plan.offerII.Offer055.BSTIterator2 o-- cn.shui.learning_plan.offerII.model.TreeNode : curr
+  cn.shui.learning_plan.offerII.Offer058 +-down- cn.shui.learning_plan.offerII.Offer058.MyCalendar
+  cn.shui.learning_plan.offerII.Offer058 +-down- cn.shui.learning_plan.offerII.Offer058.MyCalendar2
+  cn.shui.learning_plan.offerII.Offer059 +-down- cn.shui.learning_plan.offerII.Offer059.KthLargest
+  cn.shui.learning_plan.offerII.Offer062 +-down- cn.shui.learning_plan.offerII.Offer062.Trie
+  cn.shui.learning_plan.offerII.Offer062 +-down- cn.shui.learning_plan.offerII.Offer062.Trie2
+  cn.shui.learning_plan.offerII.Offer063 o-- cn.shui.learning_plan.offerII.Offer063.TrieNode : root
+  cn.shui.learning_plan.offerII.Offer063 +-down- cn.shui.learning_plan.offerII.Offer063.TrieNode
+  cn.shui.learning_plan.offerII.Offer064 +-down- cn.shui.learning_plan.offerII.Offer064.MagicDictionary
+  cn.shui.learning_plan.offerII.Offer064 +-down- cn.shui.learning_plan.offerII.Offer064.MagicDictionary2
+  cn.shui.learning_plan.offerII.Offer064.MagicDictionary o-- cn.shui.learning_plan.offerII.Offer064.MagicDictionary.TrieNode : mRoot
+  cn.shui.learning_plan.offerII.Offer064.MagicDictionary +-down- cn.shui.learning_plan.offerII.Offer064.MagicDictionary.TrieNode
+  cn.shui.learning_plan.offerII.Offer065 +-down- cn.shui.learning_plan.offerII.Offer065.TrieNode
+  cn.shui.learning_plan.offerII.Offer066 +-down- cn.shui.learning_plan.offerII.Offer066.MapSum
+  cn.shui.learning_plan.offerII.Offer066 +-down- cn.shui.learning_plan.offerII.Offer066.MapSum2
+  cn.shui.learning_plan.offerII.Offer066.MapSum2 o-- cn.shui.learning_plan.offerII.Offer066.MapSum2.TrieNode : mRoot
+  cn.shui.learning_plan.offerII.Offer066.MapSum2 +-down- cn.shui.learning_plan.offerII.Offer066.MapSum2.TrieNode
+  cn.shui.learning_plan.offerII.Offer067 o-- cn.shui.learning_plan.offerII.Offer067.TrieNode : mRoot
+  cn.shui.learning_plan.offerII.Offer067 +-down- cn.shui.learning_plan.offerII.Offer067.TrieNode
+  cn.shui.learning_plan.offerII.Offer067.TrieNode o-- cn.shui.learning_plan.offerII.Offer067.TrieNode : left
+  cn.shui.learning_plan.offerII.Offer067.TrieNode o-- cn.shui.learning_plan.offerII.Offer067.TrieNode : right
+  cn.shui.learning_plan.offerII.Offer071 +-down- cn.shui.learning_plan.offerII.Offer071.Solution
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml

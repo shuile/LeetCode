@@ -1,0 +1,822 @@
+@startuml
+
+title __ORDER's Class Diagram__\n
+
+  namespace cn.shui.order {
+    class cn.shui.order.L106 {
+        + buildTree()
+        {static} + main()
+        - build()
+        - findIndexFromRange()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L109 {
+        + sortedListToBST()
+        + sortedListToBST2()
+        - build()
+        - buildTree()
+        - getLength()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L114 {
+        + flatten()
+        + flatten2()
+        + flatten3()
+        + flatten4()
+        - preorderTraversal()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L117 {
+        + connect()
+        + connect2()
+        - handle()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L120 {
+        + minimumTotal()
+        + minimumTotal2()
+        + minimumTotal3()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L1218 {
+        + longestSubsequence()
+        + longestSubsequence2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L122 {
+        + maxProfit()
+        + maxProfit2()
+        + maxProfit3()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L125 {
+        + isPalindrome()
+        + isPalindrome2()
+        + isPalindrome3()
+        {static} + main()
+        - isCharacter()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L128 {
+        + longestConsecutive()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L129 {
+        - ans : long
+        + sumNumbers()
+        + sumNumbers2()
+        + sumNumbers3()
+        - dfs()
+        - dfs2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L130 {
+        ~ dx : int[]
+        ~ dy : int[]
+        ~ m : int
+        ~ n : int
+        + solve()
+        + solve2()
+        + solve3()
+        - dfs()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L131 {
+        ~ ans : List<String>
+        ~ ans2 : List<String>
+        ~ f : boolean[][]
+        ~ f2 : int[][]
+        ~ n : int
+        ~ ret : List<List<String>>
+        ~ ret2 : List<List<String>>
+        + dfs()
+        + partition()
+        + partition2()
+        - dfs2()
+        - isPalindrome()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L133 {
+        - visited : Map<GraphNode, GraphNode>
+        + cloneGraph()
+        + cloneGraph2()
+        + cloneGraph3()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L134 {
+        + canCompleteCircuit()
+        + canCompleteCircuit2()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L137 {
+        + singleNumber()
+        + singleNumber2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L138 {
+        + copyRandomList()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L1447 {
+        + simplifiedFraction2()
+        + simplifiedFractions()
+        - gcd()
+        - isSimplified()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L146 {
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L146.LRUCache {
+        - mCapacity : int
+        - mKeys : List<Integer>
+        - mValues : List<Integer>
+        + LRUCache()
+        + get()
+        + put()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L146.LRUCache2 {
+        - cache : Map<Integer, DLinkedNode>
+        - capacity : int
+        - size : int
+        + LRUCache2()
+        + get()
+        + put()
+        - addToHead()
+        - moveToHead()
+        - removeNode()
+        - removeTail()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L146.LRUCache2.DLinkedNode {
+        ~ key : int
+        ~ value : int
+        + DLinkedNode()
+        + DLinkedNode()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L147 {
+        + insertSortList()
+        + insertSortList2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L148 {
+        + sortList()
+        + sortList2()
+        - merge()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L150 {
+        + evalRPN()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L151 {
+        + reverseWords()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L152 {
+        + maxProduct()
+        + maxProduct2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L153 {
+        + findMin()
+        + findMin2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L162 {
+        + findPeakElement()
+        + findPeakElement2()
+        - isPeak()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L165 {
+        + compareVersion()
+        + compareVersion2()
+        + compareVersion3()
+        {static} + main()
+        - compare()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L168 {
+        + convertToTitle()
+        + convertToTitle1()
+        + convertToTitle3()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L171 {
+        {static} + main()
+        + titleToNumber()
+        + titleToNumber2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L1791 {
+        + findCenter()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L190 {
+        {static} - M1 : int
+        {static} - M2 : int
+        {static} - M4 : int
+        {static} - M8 : int
+        + reverseBits()
+        + reverseBits2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L191 {
+        + hammingWeight()
+        + hammingWeight2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L1984 {
+        + minimumDifference()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L2006 {
+        + countKDifference()
+        + countKDifference2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L202 {
+        + getNext()
+        + isHappy()
+        + isHappy2()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L205 {
+        + isIsomorphic()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L219 {
+        + containsNearbyDuplicate()
+        + containsNearbyDuplicate2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L225 {
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L225.MyStack {
+        - mQueue1 : Deque<Integer>
+        - mQueue2 : Deque<Integer>
+        + MyStack()
+        + empty()
+        + pop()
+        + push()
+        + top()
+        - moveData()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L237 {
+        + deleteNode()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L299 {
+        + getHint()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L306 {
+        + isAdditiveNumber()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L318 {
+        + maxProduct()
+        + maxProduct2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L319 {
+        + bulbSwitch()
+        + bulbSwitch2()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L367 {
+        + isPerfectSquare()
+        + isPerfectSquare2()
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L375 {
+        + getMoneyAmount()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L384 {
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L384.Solution {
+        - nums : int[]
+        - original : int[]
+        + Solution()
+        + reset()
+        + shuffle()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L384.Solution2 {
+        - nums : int[]
+        - original : int[]
+        + Solution2()
+        + reset()
+        + shuffle()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L397 {
+        - map : Map<Long, Long>
+        + integerReplacement()
+        + integerReplacement2()
+        {static} + main()
+        - help()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L423 {
+        + originalDigits()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L495 {
+        + findPoisonedDuration()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L496 {
+        + nextGreaterElement()
+        + nextGreaterElement2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L519 {
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L519.Solution {
+        - m : int
+        - map : Map<Integer, Integer>
+        - n : int
+        - random : Random
+        - total : int
+        + Solution()
+        + flip()
+        + reset()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L520 {
+        + detectCapitalUse()
+        + detectCapitalUse2()
+        - isCapital()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L559 {
+        + maxDepth()
+        + maxDepth2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L563 {
+        - ans : int
+        + findTilt()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L575 {
+        + distributeCandies()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L594 {
+        + findLHS()
+        + findLHS2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L598 {
+        + maxCount()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L700 {
+        + searchBST()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L74 {
+        - binarySearchFirstColumn()
+        - binarySearchRow()
+        - searchMatrix()
+        - searchMatrix1()
+        - searchMatrix2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L78 {
+        - ans : List<List<Integer>>
+        - t : List<Integer>
+        {static} + main()
+        + subset2()
+        + subsets1()
+        + subsets2()
+        - dfs()
+        - findIndex()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L79 {
+        + exist1()
+        + exist2()
+        {static} + main()
+        - check()
+        {static} - copyArray()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L80 {
+        + removeDuplicates1()
+        + removeDuplicates2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L81 {
+        + search1()
+        + search2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L82 {
+        + deleteDuplicates()
+        + deleteDuplicates1()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L82.ListNode {
+        ~ val : int
+        ~ ListNode()
+        ~ ListNode()
+        ~ ListNode()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L838 {
+        + pushDominoes()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L859 {
+        + buddyStrings()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L86 {
+        {static} + main()
+        + partition1()
+        + partition2()
+        {static} - createListNode()
+        {static} - printListNode()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L86.ListNode {
+        ~ val : int
+        ~ ListNode()
+        ~ ListNode()
+        ~ ListNode()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L869 {
+        ~ powerOf2Digits : Set<String>
+        - vis : boolean[]
+        + reorderedPowerOf2()
+        + reorderedPowerOf2_2()
+        - backtrack()
+        - countDigits()
+        - init()
+        - isPowerOfTwo()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L89 {
+        + grayCode1()
+        - grayCode2()
+        - isDiffOne()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L90 {
+        ~ ans : List<List<Integer>>
+        ~ t : List<Integer>
+        + subsetWithDup1()
+        + subsetWithDup2()
+        - dfs()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L91 {
+        + numDecodings()
+        + numDecodings1()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L92 {
+        {static} + main()
+        + reverseBetween()
+        + reverseBetween2()
+        + reverseBetween3()
+        - reverseLinkedList()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L93 {
+        - ans : List<String>
+        + restoreIpAddresses()
+        - help()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L95 {
+        + generateTrees()
+        - generateTrees()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L96 {
+        + numTrees()
+        + numTrees2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L97 {
+        + isInterleave1()
+        + isInterleave2()
+    }
+  }
+  
+
+  namespace cn.shui.order {
+    class cn.shui.order.L99 {
+        + recoverTree1()
+        + recoverTree2()
+        - findTwoSwapped()
+        - inorder()
+        - recover()
+        - swap()
+    }
+  }
+  
+
+  cn.shui.order.L109 o-- cn.shui.offer.domain.ListNode : globalHead
+  cn.shui.order.L117 o-- cn.shui.order.base.Node : last
+  cn.shui.order.L117 o-- cn.shui.order.base.Node : nextStart
+  cn.shui.order.L146 +-down- cn.shui.order.L146.LRUCache
+  cn.shui.order.L146 +-down- cn.shui.order.L146.LRUCache2
+  cn.shui.order.L146.LRUCache2 o-- cn.shui.order.L146.LRUCache2.DLinkedNode : head
+  cn.shui.order.L146.LRUCache2 o-- cn.shui.order.L146.LRUCache2.DLinkedNode : tail
+  cn.shui.order.L146.LRUCache2 +-down- cn.shui.order.L146.LRUCache2.DLinkedNode
+  cn.shui.order.L146.LRUCache2.DLinkedNode o-- cn.shui.order.L146.LRUCache2.DLinkedNode : next
+  cn.shui.order.L146.LRUCache2.DLinkedNode o-- cn.shui.order.L146.LRUCache2.DLinkedNode : prev
+  cn.shui.order.L225 +-down- cn.shui.order.L225.MyStack
+  cn.shui.order.L384 +-down- cn.shui.order.L384.Solution
+  cn.shui.order.L384 +-down- cn.shui.order.L384.Solution2
+  cn.shui.order.L519 +-down- cn.shui.order.L519.Solution
+  cn.shui.order.L82 +-down- cn.shui.order.L82.ListNode
+  cn.shui.order.L82.ListNode o-- cn.shui.order.L82.ListNode : next
+  cn.shui.order.L86 +-down- cn.shui.order.L86.ListNode
+  cn.shui.order.L86.ListNode o-- cn.shui.order.L86.ListNode : next
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml

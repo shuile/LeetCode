@@ -18,7 +18,7 @@ public class L4 {
         }
         int l1 = 0, r1 = len1 - 1, l2 = 0, r2 = len2 - 1;
         while (l1 <= r1 || l2 <= r2) {
-            if (l1 > r2) {
+            if (l1 > r1) {
                 if (l2 == r2) {
                     return nums2[l2];
                 }

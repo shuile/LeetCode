@@ -1,0 +1,534 @@
+@startuml
+
+title __OFFER's Class Diagram__\n
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_03 {
+        {static} + main()
+        {static} - findRepeatNumber()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_04 {
+        {static} + main()
+        {static} - findNumberIn2DArray()
+        {static} - findNumberInArray()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_05 {
+        {static} + main()
+        {static} - replaceSpace()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_06 {
+        {static} + main()
+        {static} - reversePrint()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_07 {
+        - map : Map<Integer, Integer>
+        + buildTree()
+        {static} + main()
+        - recursion()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_12 {
+        {static} + main()
+        - dfs()
+        - exist()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_13 {
+        {static} + main()
+        + movingCount()
+        - dfs()
+        - get()
+        - movingCount1()
+        - movingCount2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_14I {
+        {static} + main()
+        - cuttingRope()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_14II {
+        {static} + main()
+        - cuttingRope()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_15 {
+        {static} + main()
+        - hammingWeight()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_16 {
+        {static} + main()
+        - myPow()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_17 {
+        {static} + main()
+        - printNumbers()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_18 {
+        {static} + main()
+        - deleteNode()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_20 {
+        {static} + main()
+        - isNumber()
+        - toCharType()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    enum CharType {
+      CHAR_EXP
+      CHAR_ILLEGAL
+      CHAR_NUMBER
+      CHAR_POINT
+      CHAR_SIGN
+      CHAR_SPACE
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    enum State {
+      STATE_END
+      STATE_EXP
+      STATE_EXP_NUMBER
+      STATE_EXP_SIGN
+      STATE_FRACTION
+      STATE_INITIAL
+      STATE_INTEGER
+      STATE_INT_SIGN
+      STATE_POINT
+      STATE_POINT_WITHOUT_INT
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_21 {
+        {static} + main()
+        - exchange()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_22 {
+        {static} + main()
+        - getKthFromEnd()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_24 {
+        {static} + main()
+        - reverseLise()
+        - reverseList2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_25 {
+        {static} + main()
+        - mergeTwoList()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_26 {
+        {static} + main()
+        - dfs()
+        - isSubStructure()
+        - isSubStructure2()
+        - isValid()
+        - isValid2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_27 {
+        {static} + main()
+        - mirrorTree()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_28 {
+        {static} + main()
+        - isSymmetric()
+        - isValid()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_29 {
+        {static} + main()
+        - spiralOrder()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_30 {
+        {static} + main()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_30.MinStack {
+        - minStack : Stack<Integer>
+        - stack : Stack<Integer>
+        + MinStack()
+        + min()
+        + pop()
+        + push()
+        + top()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_31 {
+        {static} + main()
+        - validateStackSequence()
+        - validateStackSequence2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_32I {
+        {static} + main()
+        - levelOrder()
+        - levelOrder2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_32II {
+        {static} + main()
+        - dfs()
+        - levelOrder()
+        - levelOrder2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_32III {
+        {static} + main()
+        - levelOrder()
+        - levelOrder2()
+        - levelOrder3()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_33 {
+        {static} + main()
+        - isValida()
+        - verifyPostorder()
+        - verifyPostorder2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_34 {
+        - ans : List<List<Integer>>
+        {static} + main()
+        - bfs()
+        - pathSum()
+        - pathSum2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_35 {
+        {static} + main()
+        - copyRandomList()
+        - copyRandomList2()
+        - copyRandomList3()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_39 {
+        {static} + main()
+        - majorityElement()
+        - majorityElement2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_40 {
+        {static} + main()
+        - getLeastNumbers()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_42 {
+        {static} + main()
+        - maxSubArray()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_44 {
+        {static} + main()
+        - findNthDigit()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_45 {
+        {static} + main()
+        - minNumber()
+        - minNumber2()
+        - quickSort()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_46 {
+        {static} + main()
+        - help()
+        - translateNum()
+        - translateNum2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_47 {
+        {static} + main()
+        - maxValue()
+        - maxValue2()
+        - maxValue3()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_48 {
+        {static} + main()
+        - lengthOfLongestSubString()
+        - lengthOfLongestSubString2()
+        - lengthOfLongestSubString3()
+        - lengthOfLongestSubString4()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_49 {
+        {static} + main()
+        - nthUglyNumber()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_50 {
+        {static} + main()
+        - firstUniqChar()
+        - firstUniqChar2()
+        - firstUniqChar3()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_52 {
+        {static} + main()
+        - getIntersectionNode()
+        - getIntersectionNode2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_53I {
+        {static} + main()
+        - helper()
+        - search()
+        - search2()
+        - search3()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_53II {
+        {static} + main()
+        - missingNumber()
+        - missingNumber2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_54 {
+        - k : int
+        - res : int
+        {static} + main()
+        - dfs()
+        - kthLargest()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_55I {
+        {static} + main()
+        - maxDepth()
+        - maxDepth2()
+        - maxDepth3()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_55II {
+        {static} + main()
+        - isBalances()
+        - isBalances2()
+        - maxDepth()
+        - recur()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_56I {
+        {static} + main()
+        - singleNumbers()
+        - singleNumbers2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_56II {
+        {static} + main()
+        - singleNumber()
+        - singleNumber2()
+        - singleNumber3()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_57I {
+        {static} + main()
+        - twoSum()
+        - twoSum2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_57II {
+        {static} + main()
+        - findContinuousSequence()
+        - findContinuousSequence2()
+        - findContinuousSequence3()
+        - findContinuousSequence4()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_58I {
+        {static} + main()
+        - reverseWords()
+        - reverseWords2()
+    }
+  }
+  
+
+  namespace cn.shui.offer {
+    class cn.shui.offer.Offer_58II {
+        {static} + main()
+        - reverseLeftWord()
+    }
+  }
+  
+
+  cn.shui.offer.Offer_20 +-down- cn.shui.offer.Offer_20.CharType
+  cn.shui.offer.Offer_20 +-down- cn.shui.offer.Offer_20.State
+  cn.shui.offer.Offer_30 +-down- cn.shui.offer.Offer_30.MinStack
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml

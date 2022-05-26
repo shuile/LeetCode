@@ -5,10 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L838.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L518.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L341.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L590.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/model/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/model/Node2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/model/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/BlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/DynamicPurchasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/IShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/JsonChao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Mutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/NoBlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/StringUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Test22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestConcurrentModificationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestMutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestOne.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/shui/codetop/client/L25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/shui/codetop/client/L34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/shui/codetop/client/L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +56,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="UML Sequence" />
+        <option value="Interface" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +90,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/lang/String.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,6 +156,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -144,89 +196,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cn/shui/codetop/client" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.shui.offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L202">
-    <configuration name="L168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L168" />
+  <component name="RunManager" selected="Kotlin.TestOneKt">
+    <configuration name="TestConcurrentModificationException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestConcurrentModificationException" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.order.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L171" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.order.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L202" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.order.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Offer081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offerII.Offer081" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.learning_plan.offerII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Offer084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.learning_plan.offerII.Offer084" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.learning_plan.offerII.*" />
+          <option name="PATTERN" value="cn.shui.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,9 +233,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cn.shui.test.Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.Test11" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shui.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cn.shui.test.Test22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.Test22" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shui.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.StringUtilKt" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOneKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestOneKt" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -257,19 +292,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Offer081" />
-      <item itemvalue="Application.Offer084" />
-      <item itemvalue="Application.L168" />
-      <item itemvalue="Application.L171" />
-      <item itemvalue="Application.L202" />
+      <item itemvalue="Application.TestConcurrentModificationException" />
+      <item itemvalue="Application.cn.shui.test.Test11" />
+      <item itemvalue="Application.cn.shui.test.Test22" />
+      <item itemvalue="Kotlin.StringUtilKt" />
+      <item itemvalue="Kotlin.TestOneKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L202" />
-        <item itemvalue="Application.L171" />
-        <item itemvalue="Application.L168" />
-        <item itemvalue="Application.Offer084" />
-        <item itemvalue="Application.Offer081" />
+        <item itemvalue="Kotlin.TestOneKt" />
+        <item itemvalue="Kotlin.StringUtilKt" />
+        <item itemvalue="Application.TestConcurrentModificationException" />
+        <item itemvalue="Application.cn.shui.test.Test22" />
+        <item itemvalue="Application.cn.shui.test.Test11" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +431,161 @@
       <option name="project" value="LOCAL" />
       <updated>1645150921218</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="second day of traning in codetop">
+      <created>1647323426314</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1647323426314</updated>
+    </task>
+    <task id="LOCAL-00017" summary="third day of traning in codetop">
+      <created>1647399432324</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1647399432324</updated>
+    </task>
+    <task id="LOCAL-00018" summary="forth day of traning in codetop">
+      <created>1647527394524</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647527394524</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fifth day of training in codetop">
+      <created>1647586650978</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1647586650978</updated>
+    </task>
+    <task id="LOCAL-00020" summary="sixth day of training in codetop">
+      <created>1647714431362</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1647714431362</updated>
+    </task>
+    <task id="LOCAL-00021" summary="seventh day of training in codetop">
+      <created>1647780344313</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1647780344313</updated>
+    </task>
+    <task id="LOCAL-00022" summary="eighth day of training in codetop">
+      <created>1647842318968</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1647842318968</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ninth day of training in codetop">
+      <created>1647928916555</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1647928916555</updated>
+    </task>
+    <task id="LOCAL-00024" summary="tenth day of training in codetop">
+      <created>1648006075919</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1648006075919</updated>
+    </task>
+    <task id="LOCAL-00025" summary="eleventh day of training in codetop">
+      <created>1648101503599</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1648101503599</updated>
+    </task>
+    <task id="LOCAL-00026" summary="twelfth day of training in codetop">
+      <created>1648177237082</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1648177237082</updated>
+    </task>
+    <task id="LOCAL-00027" summary="thirteenth day of training in codetop">
+      <created>1648305699756</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1648305699756</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fourteenth day of training in codetop">
+      <created>1648393292628</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1648393292628</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fifteenth and sixteenth day of training in codetop">
+      <created>1648533145287</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1648533145287</updated>
+    </task>
+    <task id="LOCAL-00030" summary="seventeenth day of training in codetop">
+      <created>1648627644941</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1648627644941</updated>
+    </task>
+    <task id="LOCAL-00031" summary="eighteenth and nineteenth day of training in codetop">
+      <created>1648796270734</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1648796270734</updated>
+    </task>
+    <task id="LOCAL-00032" summary="twentieth day of training in codetop">
+      <created>1648883892103</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1648883892103</updated>
+    </task>
+    <task id="LOCAL-00033" summary="several days of training in codetop">
+      <created>1649282386107</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1649282386108</updated>
+    </task>
+    <task id="LOCAL-00034" summary="2022.4.7 of training in codetop">
+      <created>1649345846849</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1649345846849</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2022.4.8 of training in codetop">
+      <created>1649394963807</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1649394963807</updated>
+    </task>
+    <task id="LOCAL-00036" summary="2022.4.9 of training in codetop">
+      <created>1649519897573</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1649519897573</updated>
+    </task>
+    <task id="LOCAL-00037" summary="2022.4.10 and 2022.4.11 of training in codetop">
+      <created>1649639599372</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1649639599372</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -444,90 +633,59 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The Road of My LeetCode Coding." />
-    <MESSAGE value="I'm back to train leetcode." />
-    <MESSAGE value="1" />
-    <MESSAGE value="trapping_rain_water is not solved." />
-    <MESSAGE value="commit left-done in Apr." />
-    <MESSAGE value="the result of 2021.05.08" />
-    <MESSAGE value="the result of 2021.05.12" />
-    <MESSAGE value="the result of 2022.02.08" />
-    <MESSAGE value="the result of 2022.02.09" />
-    <MESSAGE value="the result of 2022.02.10" />
-    <MESSAGE value="the result of 2022.02.11" />
     <MESSAGE value="the result of 2022.02.16" />
     <MESSAGE value="the result of 2022.02.17" />
     <MESSAGE value="the result of 2022.02.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="the result of 2022.02.18" />
+    <MESSAGE value="second day of traning in codetop" />
+    <MESSAGE value="third day of traning in codetop" />
+    <MESSAGE value="forth day of traning in codetop" />
+    <MESSAGE value="fifth day of training in codetop" />
+    <MESSAGE value="sixth day of training in codetop" />
+    <MESSAGE value="seventh day of training in codetop" />
+    <MESSAGE value="eighth day of training in codetop" />
+    <MESSAGE value="ninth day of training in codetop" />
+    <MESSAGE value="tenth day of training in codetop" />
+    <MESSAGE value="eleventh day of training in codetop" />
+    <MESSAGE value="twelfth day of training in codetop" />
+    <MESSAGE value="thirteenth day of training in codetop" />
+    <MESSAGE value="fourteenth day of training in codetop" />
+    <MESSAGE value="fifteenth and sixteenth day of training in codetop" />
+    <MESSAGE value="seventeenth day of training in codetop" />
+    <MESSAGE value="eighteenth and nineteenth day of training in codetop" />
+    <MESSAGE value="twentieth day of training in codetop" />
+    <MESSAGE value="several days of training in codetop" />
+    <MESSAGE value="2022.4.7 of training in codetop" />
+    <MESSAGE value="2022.4.8 of training in codetop" />
+    <MESSAGE value="2022.4.9 of training in codetop" />
+    <MESSAGE value="2022.4.10 and 2022.4.11 of training in codetop" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.4.10 and 2022.4.11 of training in codetop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer061.java</url>
-          <line>41</line>
+          <url>file://$PROJECT_DIR$/src/cn/shui/codetop/client/Offer54.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/codetop/client/Offer54.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/codetop/client/L209.java</url>
+          <line>68</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer061.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer061.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer064.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer064.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer066.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer066.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer079.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer081.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/learning_plan/offerII/Offer081.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/L168.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/shui/order/L202.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/sqrt_x/Solution.java">

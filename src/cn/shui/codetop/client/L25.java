@@ -70,4 +70,31 @@ public class L25 {
         }
         return newHead.next;
     }
+
+    private ListNode reverseGroup3(ListNode head, int k) {
+        if (head == null) {
+            return null;
+        }
+        ListNode p = head, q = head;
+        for (int i = 0; i < k; i++) {
+            if (q == null) {
+                return head;
+            }
+            q = q.next;
+        }
+        ListNode newHead = reverse2(p, q);
+        p.next = reverseGroup3(q, k);
+        return newHead;
+    }
+
+    private ListNode reverse2(ListNode p, ListNode q) {
+        ListNode pre = null, curr = p, next = p;
+        while (curr != q) {
+            next = curr.next;
+            curr.next = pre;
+            pre = curr;
+            curr = next;
+        }
+        return pre;
+    }
 }

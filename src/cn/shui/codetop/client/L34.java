@@ -12,7 +12,7 @@ public class L34 {
     }
 
     private int findStart(int[] nums, int target) {
-        int l =0, r = nums.length - 1;
+        int l = 0, r = nums.length - 1;
         while (l <= r) {
             int mid = (r - l) / 2 + l;
             if (nums[mid] == target) {
@@ -94,5 +94,29 @@ public class L34 {
             }
         }
         return -1;
+    }
+
+    // 代码优化
+    public int[] searchRange3(int[] nums, int target) {
+        int left = binarySearch(nums, target, true);
+        int right = binarySearch(nums, target, false) - 1;
+        if (left <= right && right < nums.length && nums[left] == target && nums[right] == target) {
+            return new int[]{left, right};
+        }
+        return new int[]{-1, -1};
+    }
+
+    private int binarySearch(int[] nums, int target, boolean lower) {
+        int l = 0, r = nums.length - 1, ans = nums.length;
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (nums[mid] > target || (lower && nums[mid] >= target)) {
+                r = mid - 1;
+                ans = mid;
+            } else {
+                l = mid + 1;
+            }
+        }
+        return ans;
     }
 }
