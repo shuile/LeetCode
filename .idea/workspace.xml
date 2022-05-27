@@ -5,47 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L179.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L518.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L341.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L590.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L653.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/model/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/model/Node2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/model/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/BlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/DynamicPurchasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/IShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/JsonChao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Mutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/NoBlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/StringUtil.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Test22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestConcurrentModificationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestMutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestOne.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestJavaUseKotlin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestKtFile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/shui/codetop/client/L25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/shui/codetop/client/L34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/shui/codetop/client/L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/shui/codetop/client/L4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +26,7 @@
         <option value="Interface" />
         <option value="Kotlin Data Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -212,9 +179,37 @@
       <recent name="cn.shui.offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TestOneKt">
-    <configuration name="TestConcurrentModificationException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestConcurrentModificationException" />
+  <component name="RunManager" selected="Kotlin.TestKtFileKt">
+    <configuration name="TestJavaUseKotlin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestJavaUseKotlin" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shui.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestList" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shui.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestString" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -233,34 +228,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cn.shui.test.Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.test.Test11" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cn.shui.test.Test22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.test.Test22" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -268,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUtilKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.test.StringUtilKt" />
+    <configuration name="TestKtFileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestKtFileKt" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -292,19 +259,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestConcurrentModificationException" />
-      <item itemvalue="Application.cn.shui.test.Test11" />
-      <item itemvalue="Application.cn.shui.test.Test22" />
-      <item itemvalue="Kotlin.StringUtilKt" />
+      <item itemvalue="Application.TestJavaUseKotlin" />
+      <item itemvalue="Application.TestList" />
+      <item itemvalue="Application.TestString" />
+      <item itemvalue="Kotlin.TestKtFileKt" />
       <item itemvalue="Kotlin.TestOneKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestKtFileKt" />
+        <item itemvalue="Application.TestJavaUseKotlin" />
+        <item itemvalue="Application.TestList" />
+        <item itemvalue="Application.TestString" />
         <item itemvalue="Kotlin.TestOneKt" />
-        <item itemvalue="Kotlin.StringUtilKt" />
-        <item itemvalue="Application.TestConcurrentModificationException" />
-        <item itemvalue="Application.cn.shui.test.Test22" />
-        <item itemvalue="Application.cn.shui.test.Test11" />
       </list>
     </recent_temporary>
   </component>
@@ -679,6 +646,11 @@
           <url>file://$PROJECT_DIR$/src/cn/shui/codetop/client/L209.java</url>
           <line>68</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>860</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
