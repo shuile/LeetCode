@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L687.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L1339.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L563.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +24,11 @@
       <list>
         <option value="FxmlFile" />
         <option value="UML Sequence" />
-        <option value="Interface" />
         <option value="Kotlin Data Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -175,7 +181,21 @@
       <recent name="cn.shui.offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L988">
+  <component name="RunManager" selected="Application.L1339">
+    <configuration name="L1339" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.labuladong.L1339" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shui.labuladong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.shui.labuladong.L988" />
       <module name="LeetCode" />
@@ -204,34 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestList" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestString" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.shui.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -241,6 +233,13 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.test.TestKt" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,19 +261,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.L1339" />
       <item itemvalue="Application.L988" />
       <item itemvalue="Application.TestJavaUseKotlin" />
-      <item itemvalue="Application.TestList" />
-      <item itemvalue="Application.TestString" />
+      <item itemvalue="Kotlin.TestKt" />
       <item itemvalue="Kotlin.TestKtFileKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L1339" />
+        <item itemvalue="Kotlin.TestKt" />
         <item itemvalue="Application.L988" />
         <item itemvalue="Kotlin.TestKtFileKt" />
         <item itemvalue="Application.TestJavaUseKotlin" />
-        <item itemvalue="Application.TestList" />
-        <item itemvalue="Application.TestString" />
       </list>
     </recent_temporary>
   </component>
