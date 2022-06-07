@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L1367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L1379.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L1457.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L572.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/model/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/test/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L327.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L617.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/shui/labuladong/L971.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/shui/labuladong/L971.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
