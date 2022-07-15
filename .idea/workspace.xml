@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07437c57-4808-4ea9-9cd7-1c0024364283" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/shui/order/L207.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +176,7 @@
       <recent name="cn.shui.offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L201">
+  <component name="RunManager" selected="Application.L204">
     <configuration name="L166" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.shui.order.L166" />
       <module name="LeetCode" />
@@ -204,13 +205,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L897" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.shui.labuladong.L897" />
+    <configuration name="L204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.shui.order.L204" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.shui.labuladong.*" />
+          <option name="PATTERN" value="cn.shui.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,19 +270,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.L204" />
       <item itemvalue="Application.L201" />
       <item itemvalue="Application.L166" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.cn.shui.test.TestGeneric" />
-      <item itemvalue="Application.L897" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L204" />
         <item itemvalue="Application.L201" />
         <item itemvalue="Application.L166" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.cn.shui.test.TestGeneric" />
-        <item itemvalue="Application.L897" />
       </list>
     </recent_temporary>
   </component>
@@ -711,6 +712,26 @@
           <url>file://$PROJECT_DIR$/src/cn/shui/test/Solution.java</url>
           <line>34</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/order/L204.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/order/L204.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/order/L204.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/shui/order/L204.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
