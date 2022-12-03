@@ -1,3 +1,5 @@
 .idea/*
 .DS_Store
 LeetCode.iml
+src/cn/shui/test
+out
