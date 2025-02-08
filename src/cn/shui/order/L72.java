@@ -56,7 +56,7 @@ public class L72 {
         int diff = len2 - len1;
         if (diff > 0) {
             // insert
-            ans = Math.min(ans, minDistance((word1, word2.substring(1)) + 1);
+            ans = Math.min(ans, minDistance(word1, word2.substring(1)) + 1);
             if (c1 == c2) {
                 // 不操作
                 ans = Math.min(ans, minDistance(word1.substring(1), word2.substring(1)));
@@ -66,7 +66,7 @@ public class L72 {
             }
         } else if (diff == 0) {
             // insert
-            ans = Math.min(ans, minDistance((word1, word2.substring(1)) + 1);
+            ans = Math.min(ans, minDistance(word1, word2.substring(1)) + 1);
             // delete
             ans = Math.min(ans, minDistance(word1.substring(1), word2) + 1);
             if (c1 == c2) {
